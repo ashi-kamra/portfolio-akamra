@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Ashi Kamra"
+  text: "6.1040 Project Portfolio"
+  tagline: "As of Fall 2024"
   actions:
     - theme: brand
       text: Template Repository
