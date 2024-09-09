@@ -10,8 +10,6 @@ This assignment marked the beginning of my journey designing a social media app
 ## The Hunch ##
 Child endangerment and abuse is rampanant on social media platforms, especially Snapchat and Instagram. How can we design a platform that protects young users and prevents child endangerment?
 
----
-
 ## The Planning ##
 I first had to understand the scale of the problem, and what exactly about the platforms made them enable child endangerment.
 
