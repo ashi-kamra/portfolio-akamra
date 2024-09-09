@@ -2,7 +2,7 @@
 layout: doc
 ---
 
-# Assignments
+## Assignments ##
 
 <p v-else>
   Assignment 1
