@@ -48,6 +48,15 @@ Arini is very well acquainted with social media. As a user of apps like Instagra
 
 > Key Note: Determining someones danger level comes from the number of connections and the kind of connections you have with them. Almost like an automatic social vetting process. 
 
-In fact, online safety is something her parents have warned her about since she first started using these platforms. “They’ve told me alot, oh, digital footprint, and all these things. The last thing I want is for some stupid mistake to prevent me from going to college.” Arini has experienced random adults following her, and attempting to communicate, but because of this <font color="color:blue">safety rhetoric early-on</font>, she makes sure to be extremely careful and blocks those users immediately. But that doesn’t mean she doesn’t have fun. For Arini, communication with already established relationships is her main goal for using social media platforms, not going viral or becoming a content creator (though she recognizes the possibility for that to happen). 
+In fact, online safety is something her parents have warned her about since she first started using these platforms. “They’ve told me alot, oh, digital footprint, and all these things. The last thing I want is for some stupid mistake to prevent me from going to college.” Arini has experienced random adults following her, and attempting to communicate, but because of this <font color="blue">safety rhetoric early-on</font>, she makes sure to be extremely careful and blocks those users immediately. But that doesn’t mean she doesn’t have fun. For Arini, communication with already established relationships is her main goal for using social media platforms, not going viral or becoming a content creator (though she recognizes the possibility for that to happen). 
 
 > Key Note: Being educated about online safety increases a user's wariness and caution about friending potential online predators.
+
+## The Re-Design ##
+### Opportunity 1: Deliberate Friending ###
+The ease with which predator's can add/friend a individual by simply searching their username on the platform allows them to quickly find potential victims. To prevent "random" people adding potential victims, a user would be assigned a unique and private id that must be directly shared by said user to the potential friend (and vice versa) in order to add them. This re-design ensures that users would be making social connections more intentionally, and would keep their posts/information much more private than if it could be searched by other users. 
+
+### Opportunity 2: Emphasize Mutual Friends ###
+Based on the importance of having mutual friends in online safety, I see an opportunity to make that information more apparent. When adding a user, a screen would pop up to display any mutual friends you share. And, if you share no mutual friends, a warning would appear to notify users of this lack, and an option would appear to block them or continue with the friending. This redesign ensure that users are well informed of whether this person is completely stranger. It takes advantage of the "automatic social vetting process" to better protect potential victims, when this information can be easily overlooked on current social media platforms.
+
+### Opportunity 3: ??? ###
