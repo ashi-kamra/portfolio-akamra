@@ -1,11 +1,15 @@
 ---
+title: Assignments
 layout: doc
 ---
 
 # Assignments
-
-<p>
-  Assignment 1: Needfinding!
-</p>
+<ul>
+  <li>
+    <p> 
+        Assignment 1: Needfinding ('./assignments/assignment1')
+    <p>
+  </li>
+</ul>
 
 
