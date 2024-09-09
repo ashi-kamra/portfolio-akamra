@@ -17,10 +17,10 @@ I first had to understand the scale of the problem, and what exactly about the p
 
 After reading articles from the [NYTimes](https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html), it seemed as though the problem stems from the balance between **surveillance** and **privacy** employed on these apps. 
 
-**More privacy = more endangerment as predatory users easily go unnoticed**
-**More surveillance = more individual data collection, which is unwanted for users not impacted by CSAM**
+**More privacy = more endangerment** as predatory users easily go unnoticed
+**More surveillance = more individual data collection** which is unwanted for users not impacted by CSAM**
 
-With that in mind, I wanted my interviewees to be two of different types of parties involved in online CSAM: the children potentially in danger, and the guardians responsible for their safety.
+With that in mind, I wanted my interviewees to be two of different types of parties involved in online CSAM: the minors potentially in danger, and the guardians responsible for their safety. The individuals I chose specifically started using social media at very different ages, for different purposes. Their different genders also means they valued safety on social media distinctly. This allowed me a wide range of perspectives/experiences to draw upon.  
 
 ---
 
@@ -43,3 +43,7 @@ With that in mind, I wanted my interviewees to be two of different types of part
 
 ## The Interviews ##
 
+# Arini: 16, Female, High School Student
+Arini is very well acquainted with social media. As a user of apps like Instagram, Tiktok and Snapchat since she was in 6th grade, she thinks of herself ‘like everyone her age.” She mainly uses social media to communicate with her friends or watch entertaining videos. Sometimes, she even posts videos on tiktok herself. That decision between posting on a private story versus a public story/account is mainly based on who she wants to see the content. She’s aware of the dangers lurking, when “random people” add her on Snapchat or view her public Tiktoks. As such, posting publicly is often when she feels the most at risk on social media. But, if she comes across a suspicious account, the first thing she checks for, across all platforms, is if they have <p style="color:blue">mutual friends<p>. That seemed to be the most important factor to determine if someone is dangerous or not. But, she’ll also check if they have any public available posts, and how many followers they have. The more followers, the less suspicious because “it's not easy to just buy [thousands of] followers.” 
+
+> Key Note: Determining someones danger level comes from the number of connections and the kind of connections you have with them. Almost like an automatic social vetting process. 
