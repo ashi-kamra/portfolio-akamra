@@ -2,8 +2,10 @@
 layout: doc
 ---
 
-## Assignments ##
+# Assignments
 
-<p v-else>
-  Assignment 1: Needfinding
+<p>
+  Assignment 1: Needfinding!
 </p>
+
+
