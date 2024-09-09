@@ -5,9 +5,7 @@ layout: doc
 
 ## Assignment 1: Needfinding ##
 
-<p>
 This assignment marked the beginning of my journey designing a social media app
-<p>
 
 ---
 
