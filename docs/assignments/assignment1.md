@@ -57,7 +57,7 @@ Smitha considers herself a kind of utilitarian when it comes to social media. Sh
 
 As a mother of two children, Smitha has certainly given some thought to her kids' social media usage. Her oldest, a 15 year old non-binary artist, often says things along the lines of “evil comes to you in strange ways” in regards to social media, and thus refuses to use Instagram. They opt for Pinterest and Tumblr instead. Her younger one, a 11 year old boy who uses Youtube, isn’t allowed a phone as Smitha is wary of the mental health risks posed by social media. Documentaries like “The Social Dilemma” and research about the impact of early social media usage has proven to Smitha and her children that nothing good comes of it at that young an age. That doesn’t mean that her children won’t be exposed to dangerous content on the internet or any other platforms they use. So, instead of policing her kids' social media use, Smitha invests in building a trusting relationship between her and her kids, allowing them to communicate with her about any danger they encounter with no fear of judgement. “Sometimes we’ll talk about sexual content or violent content… I take comfort in the fact that they want to talk to me about that stuff.” For Smitha, <font color="blue">building a safe space at home </font> is what protects her kids online.  
 
-> Key Note: Having trusted adults/relationships in a users's life, protects them from encountering the same dangerous content repeatedly. 
+> Key Note: Having trusted adults/relationships in a users's life protects them from encountering the same dangerous content repeatedly. 
 
 
 ## The Re-Design ##
@@ -67,4 +67,5 @@ The ease with which predator's can add/friend a individual by simply searching t
 ### Opportunity 2: Emphasize Mutual Friends ###
 Based on the importance of having mutual friends in online safety, I see an opportunity to make that information more apparent. When adding a user, a screen would pop up to display any mutual friends you share. And, if you share no mutual friends, a warning would appear to notify users of this lack, and an option would appear to block them or continue with the friending. This redesign ensure that users are well informed of whether this person is completely stranger. It takes advantage of the "automatic social vetting process" to better protect potential victims, when this information can be easily overlooked on current social media platforms.
 
-### Opportunity 3: ??? ###
+### Opportunity 3: DM-Centric Social Media ###
+Both interviewees mentioned how their main goal using social media apps is to reinforce existing relationships. Based on this priority, I see an opportunity to design an app structured as a hybrid between direct messaging apps like Instagram and Whatsapp. That way the direct messaging features that foster a stronger personal connection is centered, but with additional popular features like stories, users can still utilize the more entertaining features.     
