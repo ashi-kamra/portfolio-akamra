@@ -16,7 +16,7 @@ In this stage of the development process, I brainstormed the features, applicati
 
 ## The Comparables ##
 1. iMessage DM Interface
-![iMessage DM Interface](/docs/images/comparable1.png)
+![iMessage DM Interface](./comparable1.png)
 Could use this graphical representation of contacts as the central focus of Haven
 
 
