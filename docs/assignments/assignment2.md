@@ -15,29 +15,29 @@ In this stage of the development process, I brainstormed the features, applicati
 3. Make intentional and safe connections
 
 ## The Comparables ##
-1. iMessage DM Interface<br>
+1. **iMessage DM Interface**<br>
 ![iMessage DM Interface](./comparable1.png)<br>
 Could use this graphical representation of contacts as the central focus of Haven
 
 
-2. Instagram internal DM Interface<br>
+2. **Instagram internal DM Interface**<br>
 ![Instagram Internal DM Interface](./comparable2.webp)<br>
 Could use the dynamic colors and ability to change the background to make the conversations you have more personal and fun!
 
-3. Instagram/Snapchat Stories<br> 
+3. **Instagram/Snapchat Stories**<br> 
 ![Instagram/Snapchat Stories](./comparable3.png)<br>
 Could use the stories feature on instagram and snapchat to make a similar feature of temporary videos/photos you want to send to a group of contacts
 
-4. Instagram Mutual Friends Feature <br>
-[INSERT IMAGE HERE]<br>
+4. **Instagram Mutual Friends Feature** <br>
+![Instagram Mutual Friends Feature](./comparable4.png)<br>
 Could use Instagrams ability to see mutual friends, but make it more prominent and centralized
 
-5. Pinterest Boards <br>
-[INSERT IMAGE HERE]<br>
+5. **Pinterest Boards** <br>
+![Pinterest Board](./comparable5.png)<br>
 Could use this kind of collaborative photo dumping feature to allow people to store/share photos with people and groups
 
-6. Apple Maps Starring Locations<br>
-[INSERT IMAGE HERE]<br>
+6. **Apple Maps Starring Locations**<br>
+![Apple Maps Starring Location Feature](./comparable6.png)<br>
 Could apply this ability to start and save locations to peoples conversations and messages (saving quotes that are funny)
 
 ## The Brainstorm ##
