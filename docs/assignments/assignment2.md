@@ -21,11 +21,11 @@ Could use this graphical representation of contacts as the central focus of Have
 
 
 2. Instagram internal DM Interface<br>
-[INSERT IMAGE HERE]<br>
+![Instagram Internal DM Interface](./comparable2.webp)<br>
 Could use the dynamic colors and ability to change the background to make the conversations you have more personal and fun!
 
 3. Instagram/Snapchat Stories<br> 
-[INSERT IMAGE HERE]<br>
+![Instagram/Snapchat Stories](./comparable3.png)<br>
 Could use the stories feature on instagram and snapchat to make a similar feature of temporary videos/photos you want to send to a group of contacts
 
 4. Instagram Mutual Friends Feature <br>
