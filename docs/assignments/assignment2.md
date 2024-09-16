@@ -16,8 +16,9 @@ In this stage of the development process, I brainstormed the features, applicati
 
 ## The Comparables ##
 1. iMessage DM Interface<br>
-[INSERT IMAGE HERE] <br>
+![iMessage DM Interface](./comparable1.png) <br>
 Could use this graphical representation of contacts as the central focus of Haven
+
 
 2. Instagram internal DM Interface<br>
 [INSERT IMAGE HERE]<br>
