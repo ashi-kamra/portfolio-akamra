@@ -62,3 +62,27 @@ Could apply this ability to start and save locations to peoples conversations an
 19. **Message Scheduling** - Feature to send messages at a chosen time and date in the future
 20. **Glimpses** - Temporary videos/images a user can post for all their connections to see.
 
+## The Value Sensitive Design (VSD) ##
+### Stakeholders ###
+1. **Direct Stakeholders**
+- *Observation:*  If CSAM does circulate on the app, then law enforcement and or the government will likely be indirect stakeholders. 
+- *Design Response:* To make it easier for law enforcement agencies to pursue the perpetrators, we could extend the Burning feature so that the “burned” photo would be sent to law enforcement immediately after burning. Or at least stored in a database that the users do not have access to so that agencies can quickly/easily access them. We could do the same if a photo was flagged as being non-consenually sent. 
+
+2. **Non-targeted Use**
+- *Observation:* Users could be the predators themselves, because we can’t filter out who exactly creates an account. They could use it to circulate CSAM among a private predatory community as opposed to actively preying on people.
+- *Design Response:* It’s difficult to restrict who opts-in to your platform, but we can build disincentives, like the consent survey. Extending it further, we could implement a threshold system. If the platform detects a larger number of sexually explicit or distressing images in a short period of time, it could automatically ban the users who sent/received them and notify the authorities. 
+
+### Time ###
+1. **Reappropriation**
+- *Observation:*  I can see how Haven could be used not just by friends/friend groups but by organized communities or teams. 
+- *Design Response:* Could build a “team/organization” version of Haven (if the audience is large enough) that functions to foster genuine connections in the workplace. Not just a productivity or workflow tool like Slack, but something that builds positive office culture as that’s something that a lot of companies are beginning to value. 
+
+2. **Adaptation** 
+- *Observation:* Because Haven is made to sustain long-term, meaningful relationships, it could isolate people and make them less inclined to create new friendships or socialize. 
+- *Design Response:* Could collaborate with local businesses/”third places” by recommending locations to hangout when a user wants to hangout with a connection. That way users can explore their location and meet new people while maintaining current connections. 
+
+### Values ###
+1. **Value Tension**
+- *Observation:* Because my app grapples with CSAM it faces the same tensions of most social media apps: safety vs. privacy. Currently, it prioritizes safety (with the Connector, Safety Spotlight, Lack of Username Search, and Cut the Connection features). There are also some features that restrict a user’s privacy (like the consent survey, which would actively monitor users' photos).
+
+- *Design Response:* This tension is unavoidable, so I think the best option would be establishing transparency: giving user’s the ability to make an educated decision about opting out of the platform by clearly communicating/educating to users on how the platform balances safety vs. privacy in the CSAM education section. 
