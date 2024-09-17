@@ -73,16 +73,18 @@ Could apply this ability to start and save locations to peoples conversations an
 - *Design Response:* It’s difficult to restrict who opts-in to your platform, but we can build disincentives, like the consent survey. Extending it further, we could implement a threshold system. If the platform detects a larger number of sexually explicit or distressing images in a short period of time, it could automatically ban the users who sent/received them and notify the authorities. 
 
 ### Time ###
-1. **Reappropriation**
+3. **Reappropriation**
 - *Observation:*  I can see how Haven could be used not just by friends/friend groups but by organized communities or teams. 
 - *Design Response:* Could build a “team/organization” version of Haven (if the audience is large enough) that functions to foster genuine connections in the workplace. Not just a productivity or workflow tool like Slack, but something that builds positive office culture as that’s something that a lot of companies are beginning to value. 
 
-2. **Adaptation** 
+4. **Adaptation** 
 - *Observation:* Because Haven is made to sustain long-term, meaningful relationships, it could isolate people and make them less inclined to create new friendships or socialize. 
 - *Design Response:* Could collaborate with local businesses/”third places” by recommending locations to hangout when a user wants to hangout with a connection. That way users can explore their location and meet new people while maintaining current connections. 
 
 ### Values ###
-1. **Value Tension**
+5. **Value Tension**
 - *Observation:* Because my app grapples with CSAM it faces the same tensions of most social media apps: safety vs. privacy. Currently, it prioritizes safety (with the Connector, Safety Spotlight, Lack of Username Search, and Cut the Connection features). There are also some features that restrict a user’s privacy (like the consent survey, which would actively monitor users' photos).
 
 - *Design Response:* This tension is unavoidable, so I think the best option would be establishing transparency: giving user’s the ability to make an educated decision about opting out of the platform by clearly communicating/educating to users on how the platform balances safety vs. privacy in the CSAM education section. 
+
+## The Storyboard ##
