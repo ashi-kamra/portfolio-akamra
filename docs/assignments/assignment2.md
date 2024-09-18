@@ -88,3 +88,11 @@ Could apply this ability to start and save locations to peoples conversations an
 - *Design Response:* This tension is unavoidable, so I think the best option would be establishing transparency: giving user’s the ability to make an educated decision about opting out of the platform by clearly communicating/educating to users on how the platform balances safety vs. privacy in the CSAM education section. 
 
 ## The Storyboard ##
+### Flow 1: Adding/Connecting to a Friend ###
+![Storyboard depicting the process of adding a friend](./storyboard1.jpeg)<br>
+
+### Flow 2: Consent Survey/Burning an Image ###
+![Storyboard depicting the process of not giving consent to receiving an image](./storyboard2.jpeg)<br>
+
+### Flow 3: Echoing ###
+![Storyboard depicting the process of saving a message](./storyboard3.jpeg)<br>
