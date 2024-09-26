@@ -34,12 +34,12 @@ By centering the user experience around a select group of connections the user h
 
 *State:*<br>
 `Connector: set Identifier`<br>
-`Connections: set Persons`<br>
+`Connections: set Person`<br>
 `user1: Connector -> one Number`<br>
 `user2: Connector -> one Number`
 
 *Action:*<br>
-`system connection(user1: Identifier, user2: Identifier, connector, connections)`<br>
+`system makeConnection(user1: Identifier, user2: Identifier, connector, connections)`<br>
 `system mutuals(user1: Identifier, user2: Identifier)`<br>
 `cancelConnection(user1: Identifier, user2: Identifier)`
 
@@ -105,3 +105,33 @@ By centering the user experience around a select group of connections the user h
 *Action:*<br>
 `addLabel(item: Item, label, out labeledItems)`<br>
 `removeLabel(item: Item, label, out labeledItems)`
+
+### Synchronizations ###
+
+```
+app Haven
+    include User, Connecting[User, User.id], Homepage[User, Connecting.connections], Messaging[User, User], ConsentSurvey[Messaging.message], Labelling[Messaging.message]
+
+    sync register(name)
+        when User.generateId() //returns the id to use in register
+            User.register(name, id)
+
+    system sync homepage(connections: Users)
+        Homepage.displayConnections(connections)
+
+    sync message(message: Message, user1: User, user2: User)
+        if user2 in user1.connections:
+            Message.sendMessage(message, user1, user2) 
+    
+    sync connect(user1: User.id, user2: User.id, connector: set User.id, connections: set Users)
+        Connector.makeConnection(user1, user2, connector, connections)
+        Homepage.displayConnection(connections)
+
+    system sync consentSurvey(message: Message, isExplicit: Boolean, consent: Boolean, toRemove: Boolean)
+        Message.sendMessage(message, user1, user2)
+        ConsentSurvey.scanContent(message)
+        ConsentSurvey.survey(isExplicit)
+        ConsentSurvey.indicateContent(consent)
+        ConsentSurvey.removeContent(toRemove)
+
+```
