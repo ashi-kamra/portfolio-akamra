@@ -91,8 +91,17 @@ By centering the user experience around a select group of connections the user h
 `indicateConsent(consent, out toRemove)`<br>
 `system removeContent(toRemove)` <br>
 
-**6. Concept: Messaging[Sender, Receiver]**
-*Purpose:*
-*Principle:*
+**6. Concept: Labelling[Item]**
+
+*Purpose:* to organize items
+
+*Principle:* adding label to item groups items and displays them together
+
 *State:*
+`item: one Item`<br>
+`label: one String`<br>
+`labeledItems: set Item`
+
 *Action:*
+`addLabel(item: Item, label, out labeledItems)`<br>
+`removeLabel(item: Item, label, out labeledItems)`
