@@ -17,10 +17,27 @@ By centering the user experience around a select group of connections the user h
 *Principle* persona representation within the system with a name and system generated id
 
 *State* <br>
-`Users: set String, Number`
-`username: User -> one String`
+`Users: set String, Number` <br>
+`username: User -> one String`<br>
 `id: user -> one Number`
 
 *Action* <br>
 `system generateId(out id: Number)` <br>
 `register(name: String, id: Number)`
+
+**2. Concept: Connecting[Person, Identifier]**
+*Purpose:* establishes access between Persons to communicate
+
+*Principle:* adding 2 identifiers into connector establishes a connection between them. Shows mutual connections between Persons before connecting
+
+*State:*
+`Connector: set Identifier`<br>
+`Connections: set Persons`<br>
+`user1: Identifier -> one Number`<br>
+`user2: Identifier -> one Number`
+
+*Action:*
+`system connection(user1: Identifier, user2: Identifier, connector, connections)`<br>
+`system mutuals(user1: Identifier, user2: Identifier)`<br>
+`cancelConnection(user1: Identifier, user2: Identifier)`
+
