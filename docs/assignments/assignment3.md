@@ -22,5 +22,5 @@ By centering the user experience around a select group of connections the user h
 `id: user -> one Number`
 
 *Action* <br>
-`system generateId(out id: Number)`
+`system generateId(out id: Number)` <br>
 `register(name: String, id: Number)`
