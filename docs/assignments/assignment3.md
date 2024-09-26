@@ -18,8 +18,8 @@ By centering the user experience around a select group of connections the user h
 
 *State* <br>
 `Users: set String, Number` <br>
-`username: User -> one String`<br>
-`id: user -> one Number`
+`username: Users -> one String`<br>
+`id: Users -> one Number`
 
 *Action* <br>
 `system generateId(out id: Number)` <br>
@@ -33,11 +33,25 @@ By centering the user experience around a select group of connections the user h
 *State:*
 `Connector: set Identifier`<br>
 `Connections: set Persons`<br>
-`user1: Identifier -> one Number`<br>
-`user2: Identifier -> one Number`
+`user1: Connector -> one Number`<br>
+`user2: Connector -> one Number`
 
 *Action:*
 `system connection(user1: Identifier, user2: Identifier, connector, connections)`<br>
 `system mutuals(user1: Identifier, user2: Identifier)`<br>
 `cancelConnection(user1: Identifier, user2: Identifier)`
+
+**3. Concept: Homepage[Person, Connection]**
+*Purpose:* a central location to view and access all connections
+
+*Principle:* after creating a connection, homepages are updated to reflect the new connection
+
+*State:*
+`Connections: set Person`
+`connection: Connections -> one Person`
+
+*Action:*
+`system displayConnections(Connections)`<br>
+`accessConnection(connection: Person)`
+
 
