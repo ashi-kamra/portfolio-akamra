@@ -32,13 +32,13 @@ By centering the user experience around a select group of connections the user h
 
 *Principle:* adding 2 identifiers into connector establishes a connection between them. Shows mutual connections between Persons before connecting
 
-*State:*
+*State:*<br>
 `Connector: set Identifier`<br>
 `Connections: set Persons`<br>
 `user1: Connector -> one Number`<br>
 `user2: Connector -> one Number`
 
-*Action:*
+*Action:*<br>
 `system connection(user1: Identifier, user2: Identifier, connector, connections)`<br>
 `system mutuals(user1: Identifier, user2: Identifier)`<br>
 `cancelConnection(user1: Identifier, user2: Identifier)`
@@ -49,11 +49,11 @@ By centering the user experience around a select group of connections the user h
 
 *Principle:* after creating a connection, homepages are updated to reflect the new connection
 
-*State:*
+*State:*<br>
 `Connections: set Person`
 `connection: Connections -> one Person`
 
-*Action:*
+*Action:*<br>
 `system displayConnections(Connections)`<br>
 `accessConnection(connection: Person)`
 
@@ -63,13 +63,13 @@ By centering the user experience around a select group of connections the user h
 
 *Principle:* after a sender sends a message, the receiver will receive it
 
-*State:* 
+*State:* <br>
 `sender: one Sender` <br>
 `receiver: one Receiver` <br>
 `message: one Message` <br>
 `messageHistory; set Message`
 
-*Action:*
+*Action:*<br>
 `sendMessage(message: Message, sender, receiver, out messageHistory)`
 
 
@@ -79,13 +79,13 @@ By centering the user experience around a select group of connections the user h
 
 *Principle:* presents options to indicate explicit content was non-consentually received and removes it if necessary
 
-*State:*
+*State:*<br>
 `content: one Content`<br>
 `isExplicit: Boolean` <br>
 `consent: Boolean` <br>
 `toRemove: Boolean`
 
-*Action:*
+*Action:*<br>
 `system scanContent(content: Content, out isExplicit)` <br>
 `system survey(isExplicit)`<br>
 `indicateConsent(consent, out toRemove)`<br>
@@ -97,11 +97,11 @@ By centering the user experience around a select group of connections the user h
 
 *Principle:* adding label to item groups items and displays them together
 
-*State:*
+*State:*<br>
 `item: one Item`<br>
 `label: one String`<br>
 `labeledItems: set Item`
 
-*Action:*
+*Action:*<br>
 `addLabel(item: Item, label, out labeledItems)`<br>
 `removeLabel(item: Item, label, out labeledItems)`
