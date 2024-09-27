@@ -137,3 +137,5 @@ app Haven
 ```
 
 ### Figma Wireframe ###
+![Figma Wireframe](./wireframe.png)
+Link to Wireframe: https://www.figma.com/design/EXVqFTV82VI4RUgPvlKq3W/Untitled?node-id=1-2&node-type=canvas&t=IbElmNPo5BvGhNEr-0
