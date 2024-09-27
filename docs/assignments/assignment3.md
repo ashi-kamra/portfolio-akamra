@@ -137,10 +137,10 @@ app Haven
         ConsentSurvey.indicateContent(consent)
         ConsentSurvey.removeContent(toRemove)
 
-    sync label(message: Message, label: String):
+    sync echo(message: Message, label: String):
         addLabel(message, label)
 
-    sync undoLabel(message: Message, label: String):
+    sync undoEcho(message: Message, label: String):
         removeLabel(message, label)
 
 ```
