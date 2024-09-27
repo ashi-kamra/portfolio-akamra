@@ -106,11 +106,14 @@ By centering the user experience around a select group of connections the user h
 `addLabel(item: Item, label, out labeledItems)`<br>
 `removeLabel(item: Item, label, out labeledItems)`
 
+## Dependency Diagram ##
+![Dependency Diagram](./dependency.jpeg)
+
 ## Synchronizations ##
 
 ```
 app Haven
-    include User, Connecting[User, User.id], Homepage[User, Connecting.connections], Messaging[User, User], ConsentSurvey[Messaging.message], Labelling[Messaging.message]
+    include User, Connecting[User, User.id], Homepage[User, Connecting.connections], Messaging[User, Connecting.connections], ConsentSurvey[Messaging.message], Labelling[Messaging.message]
 
     sync register(name)
         when User.generateId() //returns the id to use in register
