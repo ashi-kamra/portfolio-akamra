@@ -7,6 +7,7 @@ layout: doc
 In this stage of the development process, I build a database for my app using MongoDB and implement the concepts from Assignment 3
 
 ## Data Modeling ##
+### Abstract Data Model ###
 ```
 Concept: User //each user in the set of users has 1 username and password
 
@@ -26,11 +27,11 @@ user2: connections -> one Person
 
 ```
 ```
-Concept: Homepage[Person, Connection]
+Concept: Homepage[Person, Friends]
 
 States:
-connections: set ConnectionType
-connection: connections -> one Person
+friendList: set Friends
+connection: friends -> one Person
 
 ```
 ```
@@ -48,6 +49,7 @@ Concept: ConsentSurvey[Content, MessageLog]
 
 States: //need help designing this, cause i think i'm doing it like its OOP...
 explicitContent: set ConsentSurveyType
+explicit: explicitContent -> one Content
 content: MessageLog -> one Content
 isExplicit: one Boolean
 
@@ -61,3 +63,12 @@ item: labelledItems -> one Item
 label: labelledItems -> one String
 
 ```
+
+### App Definition ###
+```
+app Haven
+
+```
+
+### Data Diagram ###
+![Abstract Data Model Diagram](./abstract%20data%20model.jpeg)
