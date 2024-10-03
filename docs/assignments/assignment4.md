@@ -1,5 +1,5 @@
 ---
-title: Assignment 4
+title: Assignment 4 - Alpha
 layout: doc
 ---
 
@@ -72,3 +72,11 @@ app Haven
 
 ### Data Diagram ###
 ![Abstract Data Model Diagram](./abstract%20data%20model.jpeg)
+
+## Concept and Route Implementation ##
+
+### Back-End Github Repo ###
+Link to Repo: https://github.com/ashi-kamra/assignment4
+
+### Vercel Deployment ###
+Link to Vercel: https://vercel.com/ak118s-projects/assignment4
