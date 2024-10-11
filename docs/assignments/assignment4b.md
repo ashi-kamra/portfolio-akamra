@@ -9,7 +9,7 @@ In this stage of the development process, I build a database for my app using Mo
 Link to Repo: https://github.com/ashi-kamra/assignment4
 
 ### Vercel Deployment ###
-Link to Vercel: https://vercel.com/ak118s-projects/assignment4
+Link to Vercel: https://assignment4-five-sooty.vercel.app/
 
 ## Design Reflection and ChatGPT Kudos ##
 This final implementation of our concepts into the back-end allowed me to refine my ideas alot, based on our time constraints and based on how our concepts could interact with one another.
