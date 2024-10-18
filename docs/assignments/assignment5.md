@@ -26,3 +26,5 @@ Based on this wireframe: https://www.figma.com/design/EXVqFTV82VI4RUgPvlKq3W/610
 ## Vercel + Github ##
 Vercel deployment: https://assignment5-five-kappa.vercel.app/
 Github for project: https://github.com/ashi-kamra/assignment5
+
+Note: it works if you run it locally! Was trying to figure out what was the problem with the vercel deployment, but ran out of time.
