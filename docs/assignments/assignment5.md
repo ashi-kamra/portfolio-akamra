@@ -22,3 +22,7 @@ Based on this wireframe: https://www.figma.com/design/EXVqFTV82VI4RUgPvlKq3W/610
 *Speak a user's language*: The wireframe does provide helpful written information to guide the users behavior, but it may be too descriptive or clunky. I'll consider **shortening it and making these descriptions more punchy and clear**.
 
 *Consistency*: Yes, the wireframe uses symbols that are consistent in their meaning and function.
+
+## Vercel + Github ##
+Vercel deployment: https://assignment5-five-kappa.vercel.app/
+Github for project: https://github.com/ashi-kamra/assignment5
