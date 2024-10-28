@@ -17,7 +17,7 @@ Because Haven is a direct messaging social media app, the only pre-populated dat
 | Update username | Users will change their username to a new username by inputting this information to the app | Again, i'd like to test the Discoverability of this feature, and see if they understand the principle that you aren't meant to change your id. |
 | Navigate | Users will navigate around the app, clicking different links to take them to different pages | I want to see if the users feel like the app is consistent in its linguistic heuristics, and also error tolerant if they click the wrong link. |
 | Access Id | User will attempt to click a button in order to view their unique private id. | I want to test the error tolerance of this feature, and Fitt's law, to see if it is too easily reachable, as that would undermine intentions about safety.|
-| Log out and log back in | Users will log out of the app, and input the necessary information to try and log back in | Similar to testing connection, users should feel as though logging in and out is more complex/tedious, and will be deterred from it for safety thus testing the Discoverability heuristic.|
+| Logout/in | Users will log out of the app, and input the necessary information to try and log back in | Similar to testing connection, users should feel as though logging in and out is more complex/tedious, and will be deterred from it for safety thus testing the Discoverability heuristic.|
 
 
 
