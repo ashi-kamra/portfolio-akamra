@@ -20,5 +20,11 @@ Because Haven is a direct messaging social media app, the only pre-populated dat
 | Logout/in | Users will log out of the app, and input the necessary information to try and log back in | Similar to testing connection, users should feel as though logging in and out is more complex/tedious, and will be deterred from it for safety thus testing the Discoverability heuristic.|
 
 
-
-
+## User Test #1: Mei Brunelle ##
+I conducted my first user test of Haven with Mei Brunelle, a junior at Wellesley College. When she sat down and noticed the homepage, she joked “It’s already broken isn’t it…”, in reference to the “Loading…” message on the screen after which nothing loaded. But, she quickly moved on and got started on the tasks. 
+<br>
+Many of the tasks, like Register, Update Username, and Message, she completed quickly and easily. She navigated to the correct pages with ease, and seemingly a sense of familiarity. Indeed, after asking how she knew which pages to navigate to or what buttons to press, she mentioned how either there were clear written instructions (like “Click to see your id”) or the layout was very similar to other platforms she’d used before, like iMessages, and thus she relied on her intuition for what actions to take. 
+<br>
+Her main pain points were with the Connecting and Login functions, specifically in regards to the long, complex unique id assigned to each user. Once or twice, when attempting to connect with a user by inputting their id into the connector, she inputted the id incorrectly and had to retry to get it right. In her words, “I felt like I could mess that up often.” In a similar vein, after logging out, Mei realized that she did not remember or write down her own private id, and could not log back into the account, saying “Well, that’s not good.” Within the gulf of execution, Mei knew what she needed to do, but did not have the means to do so. 
+<br>
+On the whole, however, Mei enjoyed using the app. She thought the colors, the font, and the lack of a follower count contributed to a “very calming” experience. She also thought it felt alot like MySpace, or “retro” social media apps. 
