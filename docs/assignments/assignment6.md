@@ -43,3 +43,19 @@ Her main pain points came from the Update username and Login/logout tasks. When 
 <br>
 <br>
 In general, Annie also enjoyed using Haven. She mentioned that after doing the other tasks, she was able to pick up on the functionality of the app easily, which suggests high learnability. She specifically how she appreciated that the id was automatically generated for you, and through that interface and font choice was nice. In her words, “It was overall very intuitive.”
+
+## Opportunitites for Improvement ##
+*1. Login Functionality* (Conceptual)
+- When testers logged out, they often did not have the input to log back in. 
+- Occuring because they did not remember it (because it's system generated), or they did not write it down
+- One improvement could be to make an alert when users attempt to log out, that they cannot log back in without their id.
+
+*2. Loading Message* (Linguistic)
+- When users registered, they often were confused as to if the task was complete
+- Occuring because of a loading message on the homepage that made them expect something else
+- One improvement could be to change that message to "You have no connections." Or something more informative and less misleading.
+
+*3. Navigation Clarity* (Physical + Linguistic)
+- When users attempted to navigate, there was some lack of clarity about which pages would lead to which functions
+- This is because the page links were spaced too close together and looked like one word
+- One improvement could be using distinct symbols instead of text to label the settings page, or to have it on a different side of the nav bar to make it more distinct.
