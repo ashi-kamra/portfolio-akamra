@@ -23,8 +23,23 @@ Because Haven is a direct messaging social media app, the only pre-populated dat
 ## User Test #1: Mei Brunelle ##
 I conducted my first user test of Haven with Mei Brunelle, a junior at Wellesley College. When she sat down and noticed the homepage, she joked “It’s already broken isn’t it…”, in reference to the “Loading…” message on the screen after which nothing loaded. But, she quickly moved on and got started on the tasks. 
 <br>
+<br>
 Many of the tasks, like Register, Update Username, and Message, she completed quickly and easily. She navigated to the correct pages with ease, and seemingly a sense of familiarity. Indeed, after asking how she knew which pages to navigate to or what buttons to press, she mentioned how either there were clear written instructions (like “Click to see your id”) or the layout was very similar to other platforms she’d used before, like iMessages, and thus she relied on her intuition for what actions to take. 
+<br>
 <br>
 Her main pain points were with the Connecting and Login functions, specifically in regards to the long, complex unique id assigned to each user. Once or twice, when attempting to connect with a user by inputting their id into the connector, she inputted the id incorrectly and had to retry to get it right. In her words, “I felt like I could mess that up often.” In a similar vein, after logging out, Mei realized that she did not remember or write down her own private id, and could not log back into the account, saying “Well, that’s not good.” Within the gulf of execution, Mei knew what she needed to do, but did not have the means to do so. 
 <br>
+<br>
 On the whole, however, Mei enjoyed using the app. She thought the colors, the font, and the lack of a follower count contributed to a “very calming” experience. She also thought it felt alot like MySpace, or “retro” social media apps. 
+
+## User Test #2: Annie Chen ##
+My second user test of Haven was conducted with Annie Chen, another junior at Wellesley College. When given the first task to Register, she navigated to the login page, but hesitated between whether she should use the login component or the register component. After choosing to register, she entered her information and successfully registered but was also unsure (similar to mei) whether the task was completed or not due to the “Loading…” message. 
+<br>
+<br>
+The connecting and messaging tasks were quite easy for her, which she attributes to the clear situational context, and information scent through the use of the borders, or underlined text. “It was pretty straightforward.”
+<br>
+<br>
+Her main pain points came from the Update username and Login/logout tasks. When attempting updating her username, she misnavigated, and was unsure where to complete this task. After she managed to get there, updating it was simple and quick. According to Annie, she thought “Settings” and “Connector” were one page, and thus didn’t immediately think to go there. With Login/out, she encountered the same problem as Mei, and accidentally logged out before she wrote down or fully remembered her id. Without prompting, she decided to register another account, and write down the id of that one for future reference. Once again, within the gulf of execution, Annie knew what she needed to do, but did not have the means to do so. 
+<br>
+<br>
+In general, Annie also enjoyed using Haven. She mentioned that after doing the other tasks, she was able to pick up on the functionality of the app easily, which suggests high learnability. She specifically how she appreciated that the id was automatically generated for you, and through that interface and font choice was nice. In her words, “It was overall very intuitive.”
