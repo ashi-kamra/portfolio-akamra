@@ -19,7 +19,7 @@ layout: doc
 
 
 ## Comparables
-![Splitwise Transaction Tracking Feature](./splitwise-comp.png.png)<br>
+![Splitwise Transaction Tracking Feature](./splitwise-comp.png)<br>
 Could apply this transaction tracking feature for users to publicly see the sum of money in the pot
 
 ![Among us emergency meeting feature](./amongus-comp.png)<br>
