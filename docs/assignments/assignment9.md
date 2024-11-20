@@ -124,7 +124,7 @@ layout: doc
       ```
 
 ### Dependency Diagram
-![Dependency Diagram](./Dependency%20Diagram.jpeg.jpeg)
+![Dependency Diagram](./Dependency%20Diagram.jpeg)
 
 ### Synchronizations
 ```
